@@ -126,57 +126,44 @@
         "image_UyMgcg": {
           "type": "image",
           "settings": {
-            "title": "Customer Testimonial",
-            "testimonial": "<p>Include some of your favorite customer quotes and feedback here as social proof, to build credibility and trust for your services and products.<\/p>",
-            "name": "",
+            "title": "",
+            "testimonial": "<p>\"The edutech program opened my world to technology and education, equipping me with skills and confidence that bridged the digital divide.\"<\/p>",
+            "name": "- Lina -",
             "store_name": "",
             "link": "",
             "text_position": "center",
             "text_align": "center",
+            "image": "shopify:\/\/shop_images\/Testimonials_52be5ffd-61cd-410a-a354-77b9af78122c.png",
             "mobile_image_crop": "none",
-            "caption_content_background": "original"
+            "caption_content_background": "darken_bg"
           }
         },
         "image_jzdP8q": {
           "type": "image",
           "settings": {
-            "title": "Customer Testimonial",
-            "testimonial": "<p>Include some of your favorite customer quotes and feedback here as social proof, to build credibility and trust for your services and products.<\/p>",
-            "name": "",
+            "title": "",
+            "testimonial": "<p>\"The culinary XR program ignited a newfound passion, teaching me culinary skills and food sustainability, transforming my cooking and mindset.\"<\/p>",
+            "name": "- Alex -",
             "store_name": "",
             "link": "",
             "text_position": "center",
             "text_align": "center",
+            "image": "shopify:\/\/shop_images\/Testimonials_52be5ffd-61cd-410a-a354-77b9af78122c.png",
             "mobile_image_crop": "none",
-            "caption_content_background": "original"
-          }
-        },
-        "image_VHQkR7": {
-          "type": "image",
-          "settings": {
-            "title": "Customer Testimonial",
-            "testimonial": "<p>Include some of your favorite customer quotes and feedback here as social proof, to build credibility and trust for your services and products.<\/p>",
-            "name": "",
-            "store_name": "",
-            "link": "",
-            "text_position": "center",
-            "text_align": "center",
-            "mobile_image_crop": "none",
-            "caption_content_background": "original"
+            "caption_content_background": "darken_bg"
           }
         }
       },
       "block_order": [
         "image_UyMgcg",
-        "image_jzdP8q",
-        "image_VHQkR7"
+        "image_jzdP8q"
       ],
       "settings": {
         "wide_display": true,
-        "testimonial_text_animation": "fadeInDown",
+        "testimonial_text_animation": "",
         "testimonial_speed": 6,
         "activate_adaptiveHeight": false,
-        "mobile_text_below_image": true,
+        "mobile_text_below_image": false,
         "mobile_text_color": "",
         "css_class": "",
         "custom_css": ""
