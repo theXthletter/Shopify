@@ -35,7 +35,7 @@
     "banner_button_color": "#ffffff",
     "banner_color": "#f7b2c0",
     "banner_background_color": "#1e1e1e",
-    "banner_placeholder_background_color": "#666666",
+    "banner_placeholder_background_color": "#ffffff",
     "swatch_style": "square",
     "table_styles_enabled": true,
     "slideshow_arrow_size": "light",

@@ -30,15 +30,6 @@
         "custom_css": ""
       }
     },
-    "divider_8P3Lhm": {
-      "type": "divider",
-      "settings": {
-        "divider_spacing": 20,
-        "divider_border": false,
-        "css_class": "",
-        "custom_css": ""
-      }
-    },
     "featured_text_NxKLEj": {
       "type": "featured-text",
       "settings": {
@@ -58,13 +49,14 @@
         "image_frT6kW": {
           "type": "image",
           "settings": {
-            "title": "Why It Matters",
-            "testimonial": "<p>Our programs unite technology with tradition, shaping skills for a sustainable future where learning and innovation empower all to thrive.<\/p>",
+            "title": "",
+            "testimonial": "<p><strong>Why It Matters?<\/strong><\/p><p>Our programs unite technology with tradition, shaping skills for a sustainable future where learning and innovation empower all to thrive.<\/p>",
             "name": "",
             "store_name": "",
             "link": "",
             "text_position": "center",
             "text_align": "center",
+            "image": "shopify:\/\/shop_images\/WM2.png",
             "mobile_image_crop": "center",
             "caption_content_background": "original"
           }
@@ -80,15 +72,6 @@
         "activate_adaptiveHeight": false,
         "mobile_text_below_image": true,
         "mobile_text_color": "",
-        "css_class": "",
-        "custom_css": ""
-      }
-    },
-    "divider_8qNzFb": {
-      "type": "divider",
-      "settings": {
-        "divider_spacing": 20,
-        "divider_border": false,
         "css_class": "",
         "custom_css": ""
       }
@@ -146,15 +129,6 @@
       ],
       "settings": {
         "title": "Our Goals",
-        "css_class": "",
-        "custom_css": ""
-      }
-    },
-    "divider_8mWNFy": {
-      "type": "divider",
-      "settings": {
-        "divider_spacing": 20,
-        "divider_border": false,
         "css_class": "",
         "custom_css": ""
       }
@@ -224,12 +198,9 @@
   "order": [
     "main",
     "image_with_text_overlay_DkyqND",
-    "divider_8P3Lhm",
     "featured_text_NxKLEj",
     "testimonial_mBTWVw",
-    "divider_8qNzFb",
     "text_columns_with_images_GmdfzJ",
-    "divider_8mWNFy",
     "testimonial_tBJi3i",
     "image_text_Hjqz4a"
   ]
