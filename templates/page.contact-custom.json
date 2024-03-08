@@ -51,23 +51,6 @@
     },
     "1709920711ddbd105b": {
       "type": "apps",
-      "blocks": {
-        "donate_bee_accept_donations_donation_9z94Ux": {
-          "type": "shopify:\/\/apps\/donate-bee-accept-donations\/blocks\/donation\/3abdb33e-c86f-4c62-9d73-1f758fd2fdb1",
-          "settings": {
-            "product": "",
-            "title": "",
-            "description": "",
-            "customAmounts": true,
-            "goalProgress": true,
-            "goalAmount": false,
-            "donatedAmount": false
-          }
-        }
-      },
-      "block_order": [
-        "donate_bee_accept_donations_donation_9z94Ux"
-      ],
       "settings": {
       }
     }
