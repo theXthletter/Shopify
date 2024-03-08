@@ -24,6 +24,35 @@
         "custom_css": ""
       }
     },
+    "image_text_PAW4Yr": {
+      "type": "image-text",
+      "blocks": {
+        "image_HkbQGg": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/About_US.webp",
+            "image_crop": "none",
+            "title": "Navigating New Pathways to Empowerment",
+            "text": "<p>At <strong>All Roads<\/strong>, we empower the underserved with cutting-edge education and technology. Our programs fuse business training and digital literacy through a Web3-based Learning Management System and AR for food sustainability, designed to equip participants with the skills for tomorrow. Our mission: Unlock potential, inspire innovation, and foster a community of future leaders. <strong>All Roads<\/strong> is where empowerment begins and barriers end.<\/p>",
+            "button_label": "WHO WE ARE",
+            "link": "shopify:\/\/pages\/about-us",
+            "bg_color": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_HkbQGg"
+      ],
+      "settings": {
+        "wide_display": false,
+        "featured_links_per_row": "1",
+        "frontpage_text_align": "left",
+        "frontpage_image_position": "row",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
     "blog-posts-1": {
       "type": "blog-posts",
       "disabled": true,
@@ -45,6 +74,7 @@
   },
   "order": [
     "image_with_text_overlay_XM9XJU",
+    "image_text_PAW4Yr",
     "blog-posts-1"
   ]
 }
