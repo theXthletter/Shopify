@@ -69,8 +69,8 @@
         "wide_display": true,
         "testimonial_text_animation": "fadeInDown",
         "testimonial_speed": 6,
-        "activate_adaptiveHeight": false,
-        "mobile_text_below_image": true,
+        "activate_adaptiveHeight": true,
+        "mobile_text_below_image": false,
         "mobile_text_color": "",
         "css_class": "",
         "custom_css": ""
