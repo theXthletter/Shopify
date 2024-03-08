@@ -6,140 +6,42 @@
         "block-1": {
           "type": "employee",
           "settings": {
-            "image": "shopify:\/\/shop_images\/GCYL1120-Brandon-variant_1-square.jpg",
-            "title": "Brandon Cruz",
-            "job_title": "Founder | Creator",
-            "description": "<p>Creator. Brand designer. Business partnerships and brand development. Product sourcing and design. <\/p><p><\/p><p>- Powered by ideas and dumbells<\/p>",
+            "image": "shopify:\/\/shop_images\/Edutech.webp",
+            "title": "",
+            "job_title": "EduTech Platform",
+            "description": "<p>State-of-the-art Learning Management System (LMS) that revolutionizes education through interactive digital learning, leveraging Web3 technology to empower and connect the underserved.<\/p>",
             "twitter": ""
           }
         },
         "block-2": {
           "type": "employee",
           "settings": {
-            "image": "shopify:\/\/shop_images\/shah-big-sur-portrait.jpg",
-            "title": "Shah Martinez",
-            "job_title": "Co-Founder | COO | CTO",
-            "description": "<p>Business Strategy, Graphics Design, Web Development.  Executor of all things technical.<\/p><p><\/p><p>- Powered by Coffee and dad jokes<\/p>",
-            "twitter": "shahtieshackent"
-          }
-        },
-        "block-3": {
-          "type": "employee",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/annabelle-dlc-about-us.jpg",
-            "title": "Annabelle Cruz",
-            "job_title": "Project Manager",
-            "description": "<p>Motivator-in-Chief.  Brand-builder.  Idea craftsman. <\/p><p><\/p><p>- Powered by results<\/p>",
+            "image": "shopify:\/\/shop_images\/Culuniary.webp",
+            "title": "",
+            "job_title": "Culinary Innovator XR",
+            "description": "<p>Transforming Kitchens into Immersive AR\/VR Cooking Schools, Reducing Food Waste and Elevating Culinary Skills Through Personalized Recipes and Kitchen Management Analytics.<\/p>",
             "twitter": ""
           }
         }
       },
       "block_order": [
         "block-1",
-        "block-2",
-        "block-3"
+        "block-2"
       ],
       "settings": {
-        "image_position": "left",
-        "title": "Our Team",
-        "text": "<p>De La Cross was conceived in 2017 by <strong>Brandon Cruz<\/strong>.  His original family name was De La Cruz, which literally translates to “Of the Cross”.  As an artist and the son of a fashion designer, Brandon was always fastidious when it came to his attire. As an avid fitness buff and a man of strong faith, he noticed that when he wanted to purchase fitness apparel, most of the offerings featured overly aggressive slogans that did not reflect the values and culture he wished to embody.  He realized that the fitness landscape needed something fresh, new, and spiritual.  De La Cross was born.<\/p><p>In 2019, Brandon partnered with his brother <strong>Shah Martinez<\/strong> to help his vision come to life. From day one the two of them were in total alignment on De La Cross' values and mission. As a software engineer with previous entrepreneurial experience, Shah immediately got to work crafting a plan that would help DLC achieve its goal of being a brand that would embody strength, hope, perseverance, and community.<\/p><p>Ever-present throughout De La Cross' entire journey has been Brandon's wife, <strong>Annabelle Cruz<\/strong>. She put the <em>\"Cross\"<\/em> in the name and has since been making sure the team \"crosses\" the t's and dots the i’s. Annabelle has been an instrumental part of keeping the team's momentum, managing various aspects of DLC’s growth and is now working on our upcoming Outdoor collections. (Stay tuned…)<\/p>",
+        "image": "shopify:\/\/shop_images\/our_programs.webp",
+        "image_position": "right",
+        "title": "",
+        "text": "<p>Our products stand at the forefront of educational innovation, merging the realms of technology, culinary arts, and comprehensive learning. Through our state-of-the-art Learning Management System, infused with Web3 capabilities, to our immersive AR culinary platforms, we offer a diverse array of tools designed to enrich, engage, and empower. Each product is meticulously crafted to not only provide accessible, dynamic learning experiences but also to foster practical skills and sustainable practices. Our mission extends beyond traditional education, aiming to inspire a holistic approach to learning that encompasses digital literacy, culinary creativity, and environmental consciousness. By integrating cutting-edge technology with interactive content, we are shaping a future where education empowers individuals to excel in all aspects of life.<\/p>",
         "text_position": "center",
-        "employee_per_row": 3,
+        "employee_per_row": 2,
         "member_color": "#ffffff",
-        "member_accent_color": "#b7972d",
+        "member_accent_color": "#f26b6c",
         "member_overlay_color": "#000000"
-      }
-    },
-    "1634344432e1a0a3c9": {
-      "type": "divider",
-      "settings": {
-        "divider_spacing": 20,
-        "divider_border": false,
-        "css_class": "",
-        "custom_css": ""
-      }
-    },
-    "163435553433f780d0": {
-      "type": "image-with-text-overlay",
-      "settings": {
-        "wide_display": true,
-        "image": "shopify:\/\/shop_images\/dlc-about-us-our-purpose-grand-canyon-brandon-background.jpg",
-        "pretext": "",
-        "title": "Our Purpose",
-        "subtitle": "<p>People have associated fitness apparel with clichéd tropes like “CRUSH X-Y-Z”  or “#$@& Excuses!”.<\/p><p> While this approach has its proper place, no one is representing the <em><strong>wisdom seekers<\/strong><\/em>, the <em><strong>spiritual trailblazers<\/strong><\/em>, and the <em><strong>explorers of discernment<\/strong><\/em> who are conditioning <em><strong>mind and body<\/strong><\/em> in their quest to be the absolute best versions of themselves within and without.<\/p><p>We represent <strong>YOU<\/strong>, the sage journeyer, the one who sees beyond the status quo.  We support you on your transformational journey by way of <strong>FASHION<\/strong>, <strong>FITNESS<\/strong>, and <strong>FAITH<\/strong>.<\/p><p><em><strong>“BUILD EVERYTHING”<\/strong><\/em><\/p>",
-        "button1": "",
-        "button1_link": "",
-        "button1_style": "global-button--banner",
-        "button2": "",
-        "button2_link": "",
-        "button2_style": "global-button--banner",
-        "text_position": "center",
-        "text_align": "center",
-        "caption_content_background": "darken_bg",
-        "mobile_image_crop": "none",
-        "mobile_text_below_image": true,
-        "mobile_text_color": "",
-        "css_class": "",
-        "custom_css": ""
-      }
-    },
-    "16343555539c864b6c": {
-      "type": "divider",
-      "settings": {
-        "divider_spacing": 20,
-        "divider_border": false,
-        "css_class": "",
-        "custom_css": ""
-      }
-    },
-    "1634356767225bc39f": {
-      "type": "text-columns-with-images",
-      "blocks": {
-        "1634356767225bc39f-0": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify:\/\/shop_images\/dlc-about-us-our-vision-monochrome-trail-path-forward.jpg",
-            "title": "Our Vision",
-            "heading_size": "regular_text",
-            "text": "<p>To inspire transformation through positivity, encouragement, and community.  <\/p><p>Let's be a better person today than we were yesterday.<\/p>",
-            "button_label": "",
-            "button_link": "",
-            "align_text": "center",
-            "border_style": "none"
-          }
-        },
-        "1634356767225bc39f-1": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify:\/\/shop_images\/dlc-about-us-our-values-monterey-cliffside.jpg",
-            "title": "Our Values",
-            "heading_size": "regular_text",
-            "text": "<p><strong>Respect and love •<\/strong> <em>Let’s be good to each other<\/em><br\/><strong>Integrity •<\/strong> <em>When we’re honest and true to ourselves we can grow<\/em><br\/><strong>Humility •<\/strong> <em>Ego clouds wisdom<\/em><br\/><strong>Perseverance •<\/strong> <em>Failure is the greatest teacher<\/em><br\/><strong>Passion •<\/strong> <em>Commit to your goals and give it 110%<\/em><br\/><strong>Hard Work •<\/strong> <em>The harder the effort, the greater the gain<\/em><br\/><strong>Make a Difference •<\/strong> <em>Impart these values with compassion<\/em><\/p>",
-            "button_label": "",
-            "button_link": "",
-            "align_text": "center",
-            "border_style": "none"
-          }
-        }
-      },
-      "block_order": [
-        "1634356767225bc39f-0",
-        "1634356767225bc39f-1"
-      ],
-      "settings": {
-        "title": "Mission",
-        "css_class": "",
-        "custom_css": ""
       }
     }
   },
   "order": [
-    "main",
-    "1634344432e1a0a3c9",
-    "163435553433f780d0",
-    "16343555539c864b6c",
-    "1634356767225bc39f"
+    "main"
   ]
 }
