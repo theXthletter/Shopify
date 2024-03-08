@@ -238,6 +238,20 @@
         "css_class": "",
         "custom_css": ""
       }
+    },
+    "newsletter_QWLYGG": {
+      "type": "newsletter",
+      "settings": {
+        "wide_display": true,
+        "display_first_name": false,
+        "display_last_name": false,
+        "newsletter_title": "Subscribe",
+        "newsletter_text": "<p>Sign up to get the latest on sales, new releases and more …<\/p>",
+        "newsletter_section_text_align": "center",
+        "image": "shopify:\/\/shop_images\/subscribe.png",
+        "css_class": "",
+        "custom_css": ""
+      }
     }
   },
   "order": [
@@ -247,6 +261,7 @@
     "image_text_hpJReb",
     "testimonial_pwR3rg",
     "logo_bar_ELpQM3",
-    "blog-posts-1"
+    "blog-posts-1",
+    "newsletter_QWLYGG"
   ]
 }
