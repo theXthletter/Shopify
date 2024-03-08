@@ -6,7 +6,6 @@
         "block-2": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/featured-banner-brandon-lifting-_1800x1000_128f97c0-1f54-46fa-851a-cf70028f9a0f.jpg",
             "pretext": "<p>De La Cross 2.0 is here! Check out<\/p>",
             "title": "DLC Essentials",
             "subtitle": "<p>New Site | New Apparel<\/p>",
@@ -16,17 +15,15 @@
             "button2": "",
             "button2_link": "",
             "button2_style": "global-button--banner",
-            "text_position": "right",
+            "text_position": "center",
             "text_align": "center",
             "caption_content_background": "original",
-            "mobile_image": "shopify:\/\/shop_images\/featured-banner-brandon-lifting-mobile-_800x800_511c0ff0-16a3-480c-b66b-c5222a83cd42.jpg",
             "mobile_image_crop": "none"
           }
         },
         "block-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/featured-banner-maura-_1800x1000_2abc4a1f-df67-4aa6-8b4a-55a79ee6c3c1.jpg",
             "pretext": "",
             "title": "DLC Classics",
             "subtitle": "<p>The most comfortable, <\/p><p>versatile shirts in your wardrobe.<\/p>",
@@ -39,7 +36,6 @@
             "text_position": "left",
             "text_align": "left",
             "caption_content_background": "translucent_text_box",
-            "mobile_image": "shopify:\/\/shop_images\/featured-banner-maura-mobile-_800x800_324a7516-b81c-4647-88bb-580c19ded44e.jpg",
             "mobile_image_crop": "none"
           }
         }
@@ -245,7 +241,6 @@
         "block-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Hispanic_Heritage.png",
             "image_crop": "none",
             "title": "Hispanic Heritage",
             "text": "<p>The Hispanic Heritage month collection is here!  Celebrate your Latinx Heritage in style with these incredible flag-inspired, textured De La Cross clothes.<\/p>",
@@ -258,7 +253,6 @@
         "block-2": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/maura-fall-hoodie-and-sweatpants-backside-v2-_800x800_7c456779-8746-40fe-aee3-c1ccfff8fe30.jpg",
             "image_crop": "none",
             "title": "Fall into comfort",
             "text": "<p>All new fall athlesiure wear.  Hoodies, sweatpants, jackets, and more!<\/p>",
@@ -287,7 +281,6 @@
       "disabled": true,
       "settings": {
         "wide_display": true,
-        "image": "shopify:\/\/shop_images\/de-la-cross-faith-alternative-hoodie.jpg",
         "pretext": "",
         "title": "FAITH",
         "subtitle": "",
@@ -309,7 +302,6 @@
     },
     "testimonials-1": {
       "type": "testimonial",
-      "disabled": true,
       "blocks": {
         "block-1": {
           "type": "image",
@@ -359,6 +351,7 @@
         "block-2",
         "block-3"
       ],
+      "disabled": true,
       "settings": {
         "wide_display": true,
         "testimonial_text_animation": "fadeInDown",
