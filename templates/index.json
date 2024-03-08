@@ -91,24 +91,6 @@
         "custom_css": ""
       }
     },
-    "blog-posts-1": {
-      "type": "blog-posts",
-      "disabled": true,
-      "settings": {
-        "title": "Blog posts",
-        "blog_widget_select": "",
-        "home_page_articles": 3,
-        "blog_tags": false,
-        "blog_author": false,
-        "read_time": true,
-        "blog_date": true,
-        "blog_comment_count": true,
-        "read_more_link": true,
-        "excerpt_display": "full_excerpt",
-        "css_class": "",
-        "custom_css": ""
-      }
-    },
     "image_text_hpJReb": {
       "type": "image-text",
       "blocks": {
@@ -137,13 +119,147 @@
         "css_class": "",
         "custom_css": ""
       }
+    },
+    "testimonial_pwR3rg": {
+      "type": "testimonial",
+      "blocks": {
+        "image_UyMgcg": {
+          "type": "image",
+          "settings": {
+            "title": "Customer Testimonial",
+            "testimonial": "<p>Include some of your favorite customer quotes and feedback here as social proof, to build credibility and trust for your services and products.<\/p>",
+            "name": "",
+            "store_name": "",
+            "link": "",
+            "text_position": "center",
+            "text_align": "center",
+            "mobile_image_crop": "none",
+            "caption_content_background": "original"
+          }
+        },
+        "image_jzdP8q": {
+          "type": "image",
+          "settings": {
+            "title": "Customer Testimonial",
+            "testimonial": "<p>Include some of your favorite customer quotes and feedback here as social proof, to build credibility and trust for your services and products.<\/p>",
+            "name": "",
+            "store_name": "",
+            "link": "",
+            "text_position": "center",
+            "text_align": "center",
+            "mobile_image_crop": "none",
+            "caption_content_background": "original"
+          }
+        },
+        "image_VHQkR7": {
+          "type": "image",
+          "settings": {
+            "title": "Customer Testimonial",
+            "testimonial": "<p>Include some of your favorite customer quotes and feedback here as social proof, to build credibility and trust for your services and products.<\/p>",
+            "name": "",
+            "store_name": "",
+            "link": "",
+            "text_position": "center",
+            "text_align": "center",
+            "mobile_image_crop": "none",
+            "caption_content_background": "original"
+          }
+        }
+      },
+      "block_order": [
+        "image_UyMgcg",
+        "image_jzdP8q",
+        "image_VHQkR7"
+      ],
+      "settings": {
+        "wide_display": true,
+        "testimonial_text_animation": "fadeInDown",
+        "testimonial_speed": 6,
+        "activate_adaptiveHeight": false,
+        "mobile_text_below_image": true,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "logo_bar_ELpQM3": {
+      "type": "logo-bar",
+      "blocks": {
+        "logo_image_9CUTMn": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Braegen.png",
+            "link": ""
+          }
+        },
+        "logo_image_3wiGXp": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/SCARPPY.png",
+            "link": ""
+          }
+        },
+        "logo_image_b6x7cH": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BM_410x_9727c685-e9c3-4314-852c-af251110d466.png",
+            "link": ""
+          }
+        },
+        "logo_image_rk4jQd": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BAM.png",
+            "link": "https:\/\/bermudaasset.bm"
+          }
+        },
+        "logo_image_HJJcgD": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DBLK.png",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_image_9CUTMn",
+        "logo_image_3wiGXp",
+        "logo_image_b6x7cH",
+        "logo_image_rk4jQd",
+        "logo_image_HJJcgD"
+      ],
+      "settings": {
+        "title": "Parter Organizations",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "blog-posts-1": {
+      "type": "blog-posts",
+      "disabled": true,
+      "settings": {
+        "title": "Blog posts",
+        "blog_widget_select": "",
+        "home_page_articles": 3,
+        "blog_tags": false,
+        "blog_author": false,
+        "read_time": true,
+        "blog_date": true,
+        "blog_comment_count": true,
+        "read_more_link": true,
+        "excerpt_display": "full_excerpt",
+        "css_class": "",
+        "custom_css": ""
+      }
     }
   },
   "order": [
     "image_with_text_overlay_XM9XJU",
     "image_text_PAW4Yr",
     "featured_promotions_gRDWNb",
-    "blog-posts-1",
-    "image_text_hpJReb"
+    "image_text_hpJReb",
+    "testimonial_pwR3rg",
+    "logo_bar_ELpQM3",
+    "blog-posts-1"
   ]
 }
