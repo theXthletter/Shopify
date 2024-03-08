@@ -53,6 +53,44 @@
         "custom_css": ""
       }
     },
+    "featured_promotions_gRDWNb": {
+      "type": "featured-promotions",
+      "blocks": {
+        "image_kwLmBJ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Edutech.png",
+            "link": "shopify:\/\/pages\/our-programs",
+            "title": "EduTech Platform",
+            "text": "<p>State-of-the-art Learning Management System (LMS) that revolutionizes education through interactive digital learning, leveraging Web3 technology to empower and connect the underserved.<\/p>",
+            "button_label": ""
+          }
+        },
+        "image_XyexKR": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Culuniary.png",
+            "link": "shopify:\/\/pages\/our-programs",
+            "title": "Culinary Innovator XR",
+            "text": "<p>Transforming Kitchens into Immersive AR\/VR Cooking Schools, Reducing Food Waste and Elevating Culinary Skills Through Personalized Recipes and Kitchen Management Analytics.<\/p>",
+            "button_label": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_kwLmBJ",
+        "image_XyexKR"
+      ],
+      "settings": {
+        "wide_display": true,
+        "promo_text_on_image_enabled": true,
+        "featured_promos_per_row": 2,
+        "featured_links_animation": "fadeInDown",
+        "feature_style": "square",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
     "blog-posts-1": {
       "type": "blog-posts",
       "disabled": true,
@@ -70,11 +108,42 @@
         "css_class": "",
         "custom_css": ""
       }
+    },
+    "image_text_hpJReb": {
+      "type": "image-text",
+      "blocks": {
+        "image_kbNN6Y": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Get_Involved.webp",
+            "image_crop": "none",
+            "title": "Get involved",
+            "text": "<p>To learn how you can get involved with our program, please reach out to us.<\/p>",
+            "button_label": "Contact Us",
+            "link": "shopify:\/\/pages\/get-involved",
+            "bg_color": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_kbNN6Y"
+      ],
+      "settings": {
+        "wide_display": false,
+        "featured_links_per_row": "1",
+        "frontpage_text_align": "left",
+        "frontpage_image_position": "row",
+        "css_class": "",
+        "custom_css": ""
+      }
     }
   },
   "order": [
     "image_with_text_overlay_XM9XJU",
     "image_text_PAW4Yr",
-    "blog-posts-1"
+    "featured_promotions_gRDWNb",
+    "blog-posts-1",
+    "image_text_hpJReb"
   ]
 }
