@@ -1,5 +1,10 @@
 {
   "sections": {
+    "1709920734a814e3e0": {
+      "type": "apps",
+      "settings": {
+      }
+    },
     "image_with_text_overlay_XM9XJU": {
       "type": "image-with-text-overlay",
       "settings": {
@@ -237,6 +242,7 @@
     }
   },
   "order": [
+    "1709920734a814e3e0",
     "image_with_text_overlay_XM9XJU",
     "image_text_PAW4Yr",
     "featured_promotions_gRDWNb",
