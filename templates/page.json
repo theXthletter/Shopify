@@ -48,14 +48,14 @@
         "image_frT6kW": {
           "type": "image",
           "settings": {
-            "title": "Customer Testimonial",
-            "testimonial": "<p>Include some of your favorite customer quotes and feedback here as social proof, to build credibility and trust for your services and products.<\/p>",
+            "title": "Why It Matters",
+            "testimonial": "<p>Our programs unite technology with tradition, shaping skills for a sustainable future where learning and innovation empower all to thrive.<\/p>",
             "name": "",
             "store_name": "",
             "link": "",
             "text_position": "center",
             "text_align": "center",
-            "mobile_image_crop": "none",
+            "mobile_image_crop": "center",
             "caption_content_background": "original"
           }
         }
