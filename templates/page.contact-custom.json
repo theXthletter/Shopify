@@ -2,14 +2,48 @@
   "sections": {
     "main": {
       "type": "contact-custom-template",
+      "blocks": {
+        "richtext_DYi6KK": {
+          "type": "richtext",
+          "settings": {
+            "label": "<p>NAME<\/p>",
+            "placeholder": "Name",
+            "required": true,
+            "field_type": "text"
+          }
+        },
+        "richtext_giDpVb": {
+          "type": "richtext",
+          "settings": {
+            "label": "<p>EMAIL<\/p>",
+            "placeholder": "Email",
+            "required": false,
+            "field_type": "email"
+          }
+        },
+        "richtext_TJCbmB": {
+          "type": "richtext",
+          "settings": {
+            "label": "<p>MESSAGE<\/p>",
+            "placeholder": "Message",
+            "required": true,
+            "field_type": "text"
+          }
+        }
+      },
+      "block_order": [
+        "richtext_DYi6KK",
+        "richtext_giDpVb",
+        "richtext_TJCbmB"
+      ],
       "settings": {
         "wide_display": true,
         "mobile_image_crop": "none",
-        "contact_heading": "Get in touch",
-        "subtitle": "Subheading",
+        "contact_heading": "GET INVOLVED",
+        "subtitle": "",
         "caption_content_background": "original",
-        "contact_subheading": "Contact Us Today!",
-        "contact_content": "<p>Customize your contact form to suit your business! Add custom fields like a dropdown menu, checkbox, text fields and more, so that you can gather pertinent info from shoppers right from the get-go, to help answer their inquiries more effectively.<\/p>",
+        "contact_subheading": "",
+        "contact_content": "<p>Your Involvement Matters. Step into a world where your actions drive innovation and empowerment. Together, we can build a brighter, more sustainable future. Engage with us, empower communities, and help transform lives. It’s time to get involved and make a lasting impact. Join us now!<\/p>",
         "contact_text_position": "left",
         "contact_text_alignment": "left",
         "contact_social_buttons": false
