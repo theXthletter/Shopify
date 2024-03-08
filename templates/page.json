@@ -9,8 +9,9 @@
       "type": "image-with-text-overlay",
       "settings": {
         "wide_display": true,
+        "image": "shopify:\/\/shop_images\/WWA.png",
         "pretext": "",
-        "title": "Your Headline",
+        "title": "WHO WE ARE?",
         "subtitle": "",
         "button1": "",
         "button1_link": "",
@@ -22,7 +23,7 @@
         "text_align": "center",
         "caption_content_background": "original",
         "mobile_image_crop": "none",
-        "mobile_text_below_image": true,
+        "mobile_text_below_image": false,
         "mobile_text_color": "",
         "css_class": "",
         "custom_css": ""
@@ -31,11 +32,11 @@
     "featured_text_NxKLEj": {
       "type": "featured-text",
       "settings": {
-        "title": "Talk about your brand",
-        "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+        "title": "OUR MISSION",
+        "content": "<p>At the core of our mission is the drive to harness the transformative power of technology and education, bridging gaps and fostering innovation within the culinary world. We aim to empower individuals and communities by providing access to cutting-edge edutech and immersive culinary experiences. Our goal is to cultivate a culture of lifelong learning, creativity, and sustainability, enabling people to thrive in a rapidly evolving digital landscape. Through our comprehensive programs, we strive to equip participants with the skills, knowledge, and confidence to explore new horizons, contribute meaningfully to their communities, and lead in the creation of a more sustainable and equitable future. We are committed to making education accessible, engaging, and impactful, inspiring action and change that transcends the kitchen and classroom. Join us in redefining the boundaries of learning and innovation, one dish, one lesson, one breakthrough at a time.<\/p>",
         "button_label": "",
         "button_link": "",
-        "text_size": "featured_text",
+        "text_size": "regular_text",
         "text_alignment": "center",
         "css_class": "",
         "custom_css": ""
