@@ -181,14 +181,14 @@
           "type": "logo_image",
           "settings": {
             "image": "shopify:\/\/shop_images\/Braegen.png",
-            "link": ""
+            "link": "http:\/\/braegen.io\/"
           }
         },
         "logo_image_3wiGXp": {
           "type": "logo_image",
           "settings": {
             "image": "shopify:\/\/shop_images\/SCARPPY.png",
-            "link": ""
+            "link": "https:\/\/scrappymeals.info\/scrappymealsxr"
           }
         },
         "logo_image_b6x7cH": {
@@ -209,7 +209,7 @@
           "type": "logo_image",
           "settings": {
             "image": "shopify:\/\/shop_images\/DBLK.png",
-            "link": ""
+            "link": "https:\/\/droppphygital.ai\/"
           }
         }
       },
