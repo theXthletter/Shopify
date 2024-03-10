@@ -336,47 +336,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   
 {% include 'swymSnippet' %}
 
-    {% if template == 'index' %}
+{% if template contains 'index' %}
 <style>
-.header {
-  position: fixed;
-  top: 40px;
-  left: 0;
-  width: 100%;
-  z-index: 999;
-  transition: background-color 0.3s ease;
+@media (min-width: 992px) {
+#shopify-section-header .header-wrapper {
+    position: absolute;
+    width: 100%;
+    background: rgba(255,255,255,0.8);
 }
-
-.header.transparent {
-  background-color: transparent;
 }
-
-.header.white {
-  background-color: #ffffff;
-top:0;
-}
-
 </style>
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-  var header = document.querySelector('.header');
-  header.classList.add('transparent');
-});
-
-// Change header background on scroll
-window.addEventListener('scroll', function() {
-  var header = document.querySelector('.header');
-  var scrollTop = window.pageYOffset || document.documentElement.scrollTop;
-
-  if (scrollTop > 0) {
-    header.classList.remove('transparent');
-    header.classList.add('white');
-  } else {
-    header.classList.remove('white');
-    header.classList.add('transparent');
-  }
-});
-</script>
 {% endif %}
     
 </body>
