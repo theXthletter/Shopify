@@ -2,6 +2,9 @@
   "sections": {
     "image_with_text_overlay_XM9XJU": {
       "type": "image-with-text-overlay",
+      "custom_css": [
+
+      ],
       "settings": {
         "wide_display": true,
         "image": "shopify:\/\/shop_images\/ARB2.png",
