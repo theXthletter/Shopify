@@ -19,7 +19,7 @@
     "top_bar_color": "#f4f4f4",
     "top_bar_color_hover": "#29aae2",
     "nav_color": "#d9d9d9",
-    "nav_color_home": "{{ shop.brand.colors.primary[0].background }}",
+    "nav_color_home": "#d9d9d9",
     "nav_color_hover": "#ffffff",
     "link_color": "#29aae2",
     "link_hover_color": "#1c3664",
@@ -1944,6 +1944,27 @@
       "1489167092570",
       "1489167172377",
       "1497536613905"
+    ],
+    "blocks": {
+      "15683396631634586217": {
+        "type": "shopify:\/\/apps\/inbox\/blocks\/chat\/841fc607-4181-4ad1-842d-e24d7f8bad6b",
+        "disabled": true,
+        "settings": {
+          "button_color": "#000000",
+          "secondary_color": "#FFFFFF",
+          "ternary_color": "#6A6A6A",
+          "button_icon": "chat_bubble",
+          "button_text": "chat_with_us",
+          "button_horizontal_position": "bottom_right",
+          "button_vertical_position": "lowest",
+          "greeting_message": ""
+        }
+      }
+    }
+  },
+  "platform_customizations": {
+    "custom_css": [
+
     ]
   }
 }
