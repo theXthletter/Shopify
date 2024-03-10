@@ -335,12 +335,48 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
   
 {% include 'swymSnippet' %}
-.header-wrapper {
-    background-image: url(https://cdn.shopify.com/s/files/1/0631/6294/1662/files/slider-agency-website-slide-01-bg.jpg?v=16456...) !important;
-    background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
+{% if template == 'index' %}
+<style>
+.header {
+  position: fixed;
+  top: 40px;
+  left: 0;
+  width: 100%;
+  z-index: 999;
+  transition: background-color 0.3s ease;
 }
+
+.header.transparent {
+  background-color: transparent;
+}
+
+.header.white {
+  background-color: #ffffff;
+top:0;
+}
+
+</style>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  var header = document.querySelector('.header');
+  header.classList.add('transparent');
+});
+
+// Change header background on scroll
+window.addEventListener('scroll', function() {
+  var header = document.querySelector('.header');
+  var scrollTop = window.pageYOffset || document.documentElement.scrollTop;
+
+  if (scrollTop > 0) {
+    header.classList.remove('transparent');
+    header.classList.add('white');
+  } else {
+    header.classList.remove('white');
+    header.classList.add('transparent');
+  }
+});
+</script>
+{% endif %}
 
 </body>
 </html>
