@@ -197,11 +197,11 @@
     "popup_button2_highlight": false,
     "newsletter_popup_seconds": 10,
     "newsletter_popup_days": "2",
-    "twitter_link": "",
-    "facebook_link": "",
+    "twitter_link": "https://x.com/thelonehearts",
+    "facebook_link": "https://www.facebook.com/loneheartsclub",
     "youtube_link": "",
     "pinterest_link": "",
-    "instagram_link": "",
+    "instagram_link": "https://www.instagram.com/TITIN",
     "email_link": "",
     "favicon": "shopify://shop_images/ALLROADSFTR1.png",
     "disqus_enabled": false,
@@ -760,7 +760,7 @@
           "logo_position": "center",
           "logo_alignment": "center",
           "menu_position": "inline",
-          "menu_alignment": "align_left"
+          "menu_alignment": "center"
         }
       },
       "footer": {
@@ -776,7 +776,7 @@
             "type": "logo",
             "settings": {
               "text_align": "center",
-              "social_icons_footer": false
+              "social_icons_footer": true
             }
           },
           "empty_XnHkHf": {
@@ -792,7 +792,7 @@
           "empty_XnHkHf"
         ],
         "settings": {
-          "copyright_text": "is a 501(c)(3) nonprofit organization.",
+          "copyright_text": "",
           "display_designed_by": false,
           "display_payment_methods": false,
           "show_locale_selector": false,

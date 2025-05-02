@@ -1,13 +1,19 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "image_with_text_overlay_XM9XJU": {
       "type": "image-with-text-overlay",
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "wide_display": true,
-        "image": "shopify:\/\/shop_images\/ARB2.png",
         "pretext": "",
         "title": "Empower. Educate. Elevate.",
         "subtitle": "",
@@ -33,12 +39,11 @@
         "image_HkbQGg": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/About_US.webp",
             "image_crop": "none",
             "title": "Navigating New Pathways to Empowerment",
-            "text": "<p>At <strong>All Roads<\/strong>, we empower the underserved with cutting-edge education and technology. Our programs fuse business training and digital literacy through a Web3-based Learning Management System and AR for food sustainability, designed to equip participants with the skills for tomorrow. Our mission: Unlock potential, inspire innovation, and foster a community of future leaders. <strong>All Roads<\/strong> is where empowerment begins and barriers end.<\/p>",
+            "text": "<p>At <strong>All Roads</strong>, we empower the underserved with cutting-edge education and technology. Our programs fuse business training and digital literacy through a Web3-based Learning Management System and AR for food sustainability, designed to equip participants with the skills for tomorrow. Our mission: Unlock potential, inspire innovation, and foster a community of future leaders. <strong>All Roads</strong> is where empowerment begins and barriers end.</p>",
             "button_label": "WHO WE ARE",
-            "link": "shopify:\/\/pages\/about-us",
+            "link": "shopify://pages/about-us",
             "bg_color": "",
             "text_color": ""
           }
@@ -62,20 +67,18 @@
         "image_kwLmBJ": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Edutech.png",
-            "link": "shopify:\/\/pages\/our-programs",
+            "link": "shopify://pages/our-programs",
             "title": "EduTech Platform",
-            "text": "<p>State-of-the-art Learning Management System (LMS) that revolutionizes education through interactive digital learning, leveraging Web3 technology to empower and connect the underserved.<\/p>",
+            "text": "<p>State-of-the-art Learning Management System (LMS) that revolutionizes education through interactive digital learning, leveraging Web3 technology to empower and connect the underserved.</p>",
             "button_label": ""
           }
         },
         "image_XyexKR": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Culuniary.png",
-            "link": "shopify:\/\/pages\/our-programs",
+            "link": "shopify://pages/our-programs",
             "title": "Culinary Innovator XR",
-            "text": "<p>Transforming Kitchens into Immersive AR\/VR Cooking Schools, Reducing Food Waste and Elevating Culinary Skills Through Personalized Recipes and Kitchen Management Analytics.<\/p>",
+            "text": "<p>Transforming Kitchens into Immersive AR/VR Cooking Schools, Reducing Food Waste and Elevating Culinary Skills Through Personalized Recipes and Kitchen Management Analytics.</p>",
             "button_label": ""
           }
         }
@@ -100,12 +103,11 @@
         "image_kbNN6Y": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Get_Involved.webp",
             "image_crop": "none",
             "title": "Get involved",
-            "text": "<p>To learn how you can get involved with our program, please reach out to us.<\/p>",
+            "text": "<p>To learn how you can get involved with our program, please reach out to us.</p>",
             "button_label": "Contact Us",
-            "link": "shopify:\/\/pages\/get-involved",
+            "link": "shopify://pages/get-involved",
             "bg_color": "",
             "text_color": ""
           }
@@ -130,13 +132,12 @@
           "type": "image",
           "settings": {
             "title": "",
-            "testimonial": "<p>\"The edutech program opened my world to technology and education, equipping me with skills and confidence that bridged the digital divide.\"<\/p>",
+            "testimonial": "<p>\"The edutech program opened my world to technology and education, equipping me with skills and confidence that bridged the digital divide.\"</p>",
             "name": "- Lina -",
             "store_name": "",
             "link": "",
             "text_position": "center",
             "text_align": "center",
-            "image": "shopify:\/\/shop_images\/Testimonials_52be5ffd-61cd-410a-a354-77b9af78122c.png",
             "mobile_image_crop": "none",
             "caption_content_background": "darken_bg"
           }
@@ -145,13 +146,12 @@
           "type": "image",
           "settings": {
             "title": "",
-            "testimonial": "<p>\"The culinary XR program ignited a newfound passion, teaching me culinary skills and food sustainability, transforming my cooking and mindset.\"<\/p>",
+            "testimonial": "<p>\"The culinary XR program ignited a newfound passion, teaching me culinary skills and food sustainability, transforming my cooking and mindset.\"</p>",
             "name": "- Alex -",
             "store_name": "",
             "link": "",
             "text_position": "center",
             "text_align": "center",
-            "image": "shopify:\/\/shop_images\/Testimonials_52be5ffd-61cd-410a-a354-77b9af78122c.png",
             "mobile_image_crop": "none",
             "caption_content_background": "darken_bg"
           }
@@ -178,36 +178,31 @@
         "logo_image_9CUTMn": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Braegen.png",
-            "link": "http:\/\/braegen.io\/"
+            "link": "http://braegen.io/"
           }
         },
         "logo_image_3wiGXp": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/SCARPPY.png",
-            "link": "https:\/\/scrappymeals.info\/scrappymealsxr"
+            "link": "https://scrappymeals.info/scrappymealsxr"
           }
         },
         "logo_image_b6x7cH": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/BM_410x_9727c685-e9c3-4314-852c-af251110d466.png",
-            "link": "https:\/\/brmr.enterprises\/"
+            "link": "https://brmr.enterprises/"
           }
         },
         "logo_image_rk4jQd": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/BAM.png",
-            "link": "https:\/\/bermudaasset.bm"
+            "link": "https://bermudaasset.bm"
           }
         },
         "logo_image_HJJcgD": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DBLK.png",
-            "link": "https:\/\/droppphygital.ai\/"
+            "link": "https://droppphygital.ai/"
           }
         }
       },
@@ -231,9 +226,8 @@
         "display_first_name": false,
         "display_last_name": false,
         "newsletter_title": "Subscribe",
-        "newsletter_text": "<p>Subscribe for insights and join our innovative journey.<\/p>",
+        "newsletter_text": "<p>Subscribe for insights and join our innovative journey.</p>",
         "newsletter_section_text_align": "center",
-        "image": "shopify:\/\/shop_images\/subscribe.png",
         "css_class": "",
         "custom_css": ""
       }
